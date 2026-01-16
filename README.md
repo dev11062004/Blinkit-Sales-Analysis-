@@ -3,13 +3,7 @@
 
 Executive-ready Power BI dashboard analyzing Blinkit sales performance across outlet types, locations, sizes, and item categories.
 
-## Screenshots of Report Pages:
 
-### Dashboard Page
-![Blinkit Sales Dashboard](Screenshots/overview-dashboard.png)
-
-### sales-by-location-item Page
-![Sales by Location & Item](Screenshots/sales-by-location-item.png)
 
 ## Key KPIs
 - Total Sales: $1.20M
